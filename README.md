@@ -3,7 +3,7 @@
 <p align="center">How to use QGIS2Web Plugin</p>
 
 A simple tutorial ro show  how to used QGIS2Web plugin to 
-publish in github or ftp server or lizmap credit @CartOng
+publish in github or ftp server or lizmap source : @CartOng
 
 ## Development 
 Running demo for development:
